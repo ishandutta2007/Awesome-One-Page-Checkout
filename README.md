@@ -72,9 +72,9 @@ The following table evaluates top hosted checkout solutions, ranked by estimated
 
 ## 🔓 Open-Source GitHub Projects
 
-The following open-source one-page checkout libraries, headless storefronts, and platform plugins are sorted in **descending order by GitHub star count**. 🌟
+The following open-source one-page checkout libraries, headless storefronts, and platform plugins are sorted in **descending order by GitHub Stars_Count**. 🌟
 
-| Project & Repository | GitHub Stars | Primary Language / Stack | License | Description & Architectural Highlights |
+| Project & Repository | GitHub_Stars | Primary Language / Stack | License | Description & Architectural Highlights |
 | :--- | :---: | :---: | :---: | :--- |
 | **[bigcommerce/checkout-js](https://github.com/bigcommerce/checkout-js)** | [![Stars](https://img.shields.io/github/stars/bigcommerce/checkout-js?style=social&color=white)](https://github.com/bigcommerce/checkout-js/stargazers) | TypeScript | MIT | BigCommerce's official optimized one-page checkout frontend. Provides modular JavaScript/React components for single-page checkout orchestration, payment sheet injection, and shipping method calculations. |
 | **[deivisonarthur/OSC-Magento-Brasil-6-Pro](https://github.com/deivisonarthur/OSC-Magento-Brasil-6-Pro)** | [![Stars](https://img.shields.io/github/stars/deivisonarthur/OSC-Magento-Brasil-6-Pro?style=social&color=white)](https://github.com/deivisonarthur/OSC-Magento-Brasil-6-Pro/stargazers) | PHP / JavaScript | OSL-3.0 | Popular community-driven one-step checkout extension for Magento Community Edition with AJAX zip code resolution, responsive single-page grid, and local payment gateways. |
@@ -109,7 +109,7 @@ Contributions are welcome! Please follow these contribution guidelines: 💡
 2. Create a new branch: `git checkout -b add-checkout-tool`.
 3. Add or update tools in the relevant table (SaaS or Open-Source) keeping entries sorted properly:
    - For **SaaS products**: include exact starting tier prices, specific free tier / free trial limits, and company scale metrics.
-   - For **Open-Source projects**: include repository link, star badge (`style=social&color=white` linking to the stargazers page), stack, license, and brief description.
+   - For **Open-Source projects**: include repository link, Stars_Badge (`style=social&color=white` linking to the stargazers page), stack, license, and brief description.
 4. Ensure all URLs resolve directly to official product homepages or active GitHub repositories.
 5. Commit your changes and open a Pull Request. 🎉
 
