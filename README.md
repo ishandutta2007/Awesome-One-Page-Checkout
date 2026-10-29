@@ -1,50 +1,60 @@
-# Awesome One-Page Checkout: High-Converting Checkout Ecosystem & Solutions
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img src="./assets/banner.svg" alt="Awesome One-Page Checkout Banner" width="100%" />
+
+# ⚡ Awesome One-Page Checkout: High-Converting Checkout Ecosystem & Solutions 🛒
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
 [![Track Awesome List](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-One-Page-Checkout)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-One-Page-Checkout/blob/main/README.md#how-to-contribute)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-One-Page-Checkout/blob/main/README.md#-how-to-contribute)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated list of leading SaaS products, checkout optimization tools, and open-source GitHub repositories for One-Page Checkout, One-Click Checkout, and friction-free payment experiences.**
+**Curated collection of leading SaaS platforms, checkout optimization tools, and open-source GitHub repositories for One-Page Checkout, One-Click Checkout, and friction-free payment experiences.** 💳✨
 
 *Focused on Checkout Optimization, Express Payments, Cart Abandonment Reduction, Headless Storefronts, and Self-Hosted Checkout Flows.*
 
-**Last updated: October 2026**
+**Last updated: October 2026** 📅
+
+</div>
 
 ---
 
-## Overview & Category Focus
+## 📌 Overview & Category Focus
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **One-Page Checkout** (single-page checkout / one-step checkout). These solutions allow online merchants to streamline billing, shipping, delivery options, and payment processing into a single responsive, scrollable page or overlay—minimizing form friction, slashing shopping cart abandonment rates, and boosting mobile checkout conversion rates.
+This repository tracks notable **SaaS platforms** and **open-source projects** for **One-Page Checkout** (single-page checkout / one-step checkout). These solutions allow online merchants to streamline billing, shipping, delivery options, and payment processing into a single responsive, scrollable page or overlay—minimizing form friction, slashing shopping cart abandonment rates, and boosting mobile checkout conversion rates. 🚀
 
-Key enterprise SaaS benchmarks include Shopify One-Page Checkout, Bolt, CartPanda, CheckoutWC, and Dominate. In the open-source world, tools range from headless commerce frontends (Spree Storefront, BigCommerce Checkout JS, Medusa Express) to community plugins for Magento, WooCommerce, and Zen Cart.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-  - [Headless Storefronts & Checkout SDKs](#headless-storefronts--checkout-sdks)
-  - [Platform-Specific Extensions & Plugins](#platform-specific-extensions--plugins)
-- [Architecture & Conversion Best Practices](#architecture--conversion-best-practices)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & Security Considerations](#disclaimer--security-considerations)
+Key enterprise SaaS benchmarks include Shopify One-Page Checkout, Bolt, CartPanda, CheckoutWC, and Dominate. In the open-source world, tools range from headless commerce frontends (Spree Storefront, BigCommerce Checkout JS, Medusa Express) to community plugins for Magento, WooCommerce, and Zen Cart. 🛠️
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global one-click and one-page checkout software market was valued at approximately **$2.8 billion** and is projected to expand to **$8.9 billion** by the early 2030s, compounding at roughly **15.4% CAGR**, with the broader e-commerce checkout software and transaction optimization sector exceeding **$15 billion**. 
-
-Market dynamics reflect a **moderately fragmented sector with high concentration at the platform tier**: ecommerce infrastructure leaders like Shopify exert winner-take-most dominance within their native ecosystems (via bundled one-page flows and Shop Pay network effects), while universal checkout layers and headless extension providers remain fragmented, competing aggressively on platform portability, merchant customization, and specialized payment integrations.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [Headless Storefronts & Checkout SDKs](#-headless-storefronts--checkout-sdks)
+  - [Platform-Specific Extensions & Plugins](#-platform-specific-extensions--plugins)
+- [🏗️ Architecture & Conversion Best Practices](#️-architecture--conversion-best-practices)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer & Security Considerations](#️-disclaimer--security-considerations)
 
 ---
 
-## SaaS / Hosted Platforms
+## 📊 Sector Overview & Market Dynamics
 
-The following table evaluates top hosted checkout solutions, ranked by estimated company scale (market capitalization, enterprise valuation, or annual revenue in descending order).
+The global one-click and one-page checkout software market was valued at approximately **$2.8 billion** and is projected to expand to **$8.9 billion** by the early 2030s, compounding at roughly **15.4% CAGR**, with the broader e-commerce checkout software and transaction optimization sector exceeding **$15 billion**. 📈
+
+Market dynamics reflect a **moderately fragmented sector with high concentration at the platform tier**: ecommerce infrastructure leaders like Shopify exert winner-take-most dominance within their native ecosystems (via bundled one-page flows and Shop Pay network effects), while universal checkout layers and headless extension providers remain fragmented, competing aggressively on platform portability, merchant customization, and specialized payment integrations. 🌐
+
+---
+
+## ☁️ SaaS / Hosted Platforms
+
+The following table evaluates top hosted checkout solutions, ranked by estimated company scale (market capitalization, enterprise valuation, or annual revenue in descending order). 🏢
 
 | Product / Platform | Company Scale (Valuation / Revenue) | Starting Pricing Tier | Free Tier Limits / Free Trial | Key Capabilities & Platform Focus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -60,9 +70,9 @@ The following table evaluates top hosted checkout solutions, ranked by estimated
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-The following open-source one-page checkout libraries, headless storefronts, and platform plugins are sorted in **descending order by GitHub star count**.
+The following open-source one-page checkout libraries, headless storefronts, and platform plugins are sorted in **descending order by GitHub star count**. 🌟
 
 | Project & Repository | GitHub Stars | Primary Language / Stack | License | Description & Architectural Highlights |
 | :--- | :---: | :---: | :---: | :--- |
@@ -80,20 +90,20 @@ The following open-source one-page checkout libraries, headless storefronts, and
 
 ---
 
-## Architecture & Conversion Best Practices
+## 🏗️ Architecture & Conversion Best Practices
 
-When designing or integrating a One-Page Checkout workflow, adhere to these key technical and UX standards:
+When designing or integrating a One-Page Checkout workflow, adhere to these key technical and UX standards: 📐
 
-1. **Above-the-Fold Express Wallets**: Place digital wallet triggers (Apple Pay, Google Pay, Shop Pay, PayPal) at the very top of the page. Over 50% of mobile buyers will bypass form entry entirely if their default payment wallet is detected.
-2. **Asynchronous Form Validation & Address Autocomplete**: Use Google Places API or postal code lookups to populate address and state fields automatically. Validate credit card and shipping fields inline via non-blocking JavaScript to prevent full page refreshes.
-3. **PCI DSS SAQ-A Compliance via Tokenization**: Never transmit raw credit card information through self-hosted backends. Always utilize secure iframes or client-side tokenization SDKs (e.g., Stripe Elements, PayPal JS SDK, Adyen Web Drop-in).
-4. **Adaptive Order State Machines**: On headless platforms (Medusa, Spree, Sylius), adjust standard multi-step ecommerce state machines to transition automatically from Cart to Address and Payment states in a single atomic transaction.
+1. **Above-the-Fold Express Wallets**: Place digital wallet triggers (Apple Pay, Google Pay, Shop Pay, PayPal) at the very top of the page. Over 50% of mobile buyers will bypass form entry entirely if their default payment wallet is detected. 📱
+2. **Asynchronous Form Validation & Address Autocomplete**: Use Google Places API or postal code lookups to populate address and state fields automatically. Validate credit card and shipping fields inline via non-blocking JavaScript to prevent full page refreshes. ⚡
+3. **PCI DSS SAQ-A Compliance via Tokenization**: Never transmit raw credit card information through self-hosted backends. Always utilize secure iframes or client-side tokenization SDKs (e.g., Stripe Elements, PayPal JS SDK, Adyen Web Drop-in). 🔒
+4. **Adaptive Order State Machines**: On headless platforms (Medusa, Spree, Sylius), adjust standard multi-step ecommerce state machines to transition automatically from Cart to Address and Payment states in a single atomic transaction. 🔄
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-Contributions are welcome! Please follow these contribution guidelines:
+Contributions are welcome! Please follow these contribution guidelines: 💡
 
 1. Fork this repository: `https://github.com/ishandutta2007/Awesome-One-Page-Checkout`.
 2. Create a new branch: `git checkout -b add-checkout-tool`.
@@ -101,15 +111,34 @@ Contributions are welcome! Please follow these contribution guidelines:
    - For **SaaS products**: include exact starting tier prices, specific free tier / free trial limits, and company scale metrics.
    - For **Open-Source projects**: include repository link, star badge (`style=social&color=white` linking to the stargazers page), stack, license, and brief description.
 4. Ensure all URLs resolve directly to official product homepages or active GitHub repositories.
-5. Commit your changes and open a Pull Request.
+5. Commit your changes and open a Pull Request. 🎉
 
 ---
 
-## Disclaimer & Security Considerations
+## 📈 Star History
 
-- This repository is a community-curated educational index and does not represent an endorsement of any third-party service.
-- **Security Warning**: Deploying custom or open-source checkouts requires thorough security auditing and adherence to **PCI-DSS Level 1–4** standards. Self-hosted merchants must configure strict Content Security Policies (CSP) to protect against Magecart and client-side digital skimming attacks.
-- Pricing, trial periods, and market valuations are documented as of October 2026 and are subject to change by respective vendors.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-One-Page-Checkout&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-One-Page-Checkout&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring this curated repository! If you find this resource helpful for your projects, ecommerce store, or checkout research:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and contribute** new open-source or SaaS checkout innovations.
+- 📢 **Share** with colleagues, developers, and ecommerce founders.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance and curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support keeps this collection updated with the latest in friction-free checkout engineering! 🙌
+
+---
+
+## ⚠️ Disclaimer & Security Considerations
+
+- This repository is a community-curated educational index and does not represent an endorsement of any third-party service. ⚖️
+- **Security Warning**: Deploying custom or open-source checkouts requires thorough security auditing and adherence to **PCI-DSS Level 1–4** standards. Self-hosted merchants must configure strict Content Security Policies (CSP) to protect against Magecart and client-side digital skimming attacks. 🛡️
+- Pricing, trial periods, and market valuations are documented as of October 2026 and are subject to change by respective vendors. ℹ️
 
 ---
 
